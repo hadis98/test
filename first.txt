@@ -1,0 +1,8 @@
+hello my friend 
+i want to learn :
+1.git & github
+2.linux (completely >> linux essentials & lpic1)
+3.vim
+4.python 
+5.cpp
+6.qt
